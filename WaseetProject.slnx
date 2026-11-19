@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="WaseetProject.BLL/WaseetProject.BLL.csproj" />
+  <Project Path="WaseetProject.DAL/WaseetProject.DAL.csproj" />
+  <Project Path="WaseetProject/WaseetProject.PL.csproj" />
+</Solution>

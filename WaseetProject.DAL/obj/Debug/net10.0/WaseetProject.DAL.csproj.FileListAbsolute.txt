@@ -1,0 +1,16 @@
+D:\DEPI\Project\WaseetProject\WaseetProject.DAL\bin\Debug\net10.0\WaseetProject.DAL.deps.json
+D:\DEPI\Project\WaseetProject\WaseetProject.DAL\bin\Debug\net10.0\WaseetProject.DAL.runtimeconfig.json
+D:\DEPI\Project\WaseetProject\WaseetProject.DAL\bin\Debug\net10.0\WaseetProject.DAL.runtimeconfig.dev.json
+D:\DEPI\Project\WaseetProject\WaseetProject.DAL\bin\Debug\net10.0\WaseetProject.DAL.dll
+D:\DEPI\Project\WaseetProject\WaseetProject.DAL\bin\Debug\net10.0\WaseetProject.DAL.pdb
+D:\DEPI\Project\WaseetProject\WaseetProject.DAL\obj\Debug\net10.0\WaseetProject.DAL.csproj.AssemblyReference.cache
+D:\DEPI\Project\WaseetProject\WaseetProject.DAL\obj\Debug\net10.0\WaseetProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Project\WaseetProject\WaseetProject.DAL\obj\Debug\net10.0\WaseetProject.DAL.AssemblyInfoInputs.cache
+D:\DEPI\Project\WaseetProject\WaseetProject.DAL\obj\Debug\net10.0\WaseetProject.DAL.AssemblyInfo.cs
+D:\DEPI\Project\WaseetProject\WaseetProject.DAL\obj\Debug\net10.0\WaseetProject.DAL.csproj.CoreCompileInputs.cache
+D:\DEPI\Project\WaseetProject\WaseetProject.DAL\obj\Debug\net10.0\WaseetProject.DAL.dll
+D:\DEPI\Project\WaseetProject\WaseetProject.DAL\obj\Debug\net10.0\refint\WaseetProject.DAL.dll
+D:\DEPI\Project\WaseetProject\WaseetProject.DAL\obj\Debug\net10.0\WaseetProject.DAL.pdb
+D:\DEPI\Project\WaseetProject\WaseetProject.DAL\obj\Debug\net10.0\WaseetProject.DAL.genruntimeconfig.cache
+D:\DEPI\Project\WaseetProject\WaseetProject.DAL\obj\Debug\net10.0\ref\WaseetProject.DAL.dll
+D:\DEPI\Project\WaseetProject\WaseetProject.DAL\obj\Debug\net10.0\WaseetPr.E77362B2.Up2Date

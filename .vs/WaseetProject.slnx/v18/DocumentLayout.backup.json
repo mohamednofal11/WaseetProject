@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEPI\\Project\\WaseetProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60E7F06B-24EE-5D81-03BF-DD3A4D75F12F}|WaseetProject\\WaseetProject.PL.csproj|d:\\depi\\project\\waseetproject\\waseetproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60E7F06B-24EE-5D81-03BF-DD3A4D75F12F}|WaseetProject\\WaseetProject.PL.csproj|solutionrelative:waseetproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DEPI\\Project\\WaseetProject\\WaseetProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WaseetProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DEPI\\Project\\WaseetProject\\WaseetProject\\Views\\_ViewImports.cshtml*",
+              "RelativeToolTip": "WaseetProject\\Views\\_ViewImports.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T11:27:25.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

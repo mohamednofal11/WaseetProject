@@ -1,0 +1,15 @@
+D:\DEPI\Project\WaseetProject\WaseetProject.BLL\bin\Debug\net10.0\WaseetProject.BLL.deps.json
+D:\DEPI\Project\WaseetProject\WaseetProject.BLL\bin\Debug\net10.0\WaseetProject.BLL.dll
+D:\DEPI\Project\WaseetProject\WaseetProject.BLL\bin\Debug\net10.0\WaseetProject.BLL.pdb
+D:\DEPI\Project\WaseetProject\WaseetProject.BLL\bin\Debug\net10.0\WaseetProject.DAL.dll
+D:\DEPI\Project\WaseetProject\WaseetProject.BLL\bin\Debug\net10.0\WaseetProject.DAL.pdb
+D:\DEPI\Project\WaseetProject\WaseetProject.BLL\obj\Debug\net10.0\WaseetProject.BLL.csproj.AssemblyReference.cache
+D:\DEPI\Project\WaseetProject\WaseetProject.BLL\obj\Debug\net10.0\WaseetProject.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Project\WaseetProject\WaseetProject.BLL\obj\Debug\net10.0\WaseetProject.BLL.AssemblyInfoInputs.cache
+D:\DEPI\Project\WaseetProject\WaseetProject.BLL\obj\Debug\net10.0\WaseetProject.BLL.AssemblyInfo.cs
+D:\DEPI\Project\WaseetProject\WaseetProject.BLL\obj\Debug\net10.0\WaseetProject.BLL.csproj.CoreCompileInputs.cache
+D:\DEPI\Project\WaseetProject\WaseetProject.BLL\obj\Debug\net10.0\WaseetPr.E6F02168.Up2Date
+D:\DEPI\Project\WaseetProject\WaseetProject.BLL\obj\Debug\net10.0\WaseetProject.BLL.dll
+D:\DEPI\Project\WaseetProject\WaseetProject.BLL\obj\Debug\net10.0\refint\WaseetProject.BLL.dll
+D:\DEPI\Project\WaseetProject\WaseetProject.BLL\obj\Debug\net10.0\WaseetProject.BLL.pdb
+D:\DEPI\Project\WaseetProject\WaseetProject.BLL\obj\Debug\net10.0\ref\WaseetProject.BLL.dll

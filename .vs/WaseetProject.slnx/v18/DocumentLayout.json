@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEPI\\Project\\WaseetProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60E7F06B-24EE-5D81-03BF-DD3A4D75F12F}|WaseetProject\\WaseetProject.PL.csproj|d:\\depi\\project\\waseetproject\\waseetproject\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E7F06B-24EE-5D81-03BF-DD3A4D75F12F}|WaseetProject\\WaseetProject.PL.csproj|solutionrelative:waseetproject\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0252A8A-05A0-5FC8-F0D6-C920A8FBA336}|WaseetProject.DAL\\WaseetProject.DAL.csproj|d:\\depi\\project\\waseetproject\\waseetproject.dal\\repository\\classes\\genaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0252A8A-05A0-5FC8-F0D6-C920A8FBA336}|WaseetProject.DAL\\WaseetProject.DAL.csproj|solutionrelative:waseetproject.dal\\repository\\classes\\genaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0252A8A-05A0-5FC8-F0D6-C920A8FBA336}|WaseetProject.DAL\\WaseetProject.DAL.csproj|d:\\depi\\project\\waseetproject\\waseetproject.dal\\repository\\interfaces\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0252A8A-05A0-5FC8-F0D6-C920A8FBA336}|WaseetProject.DAL\\WaseetProject.DAL.csproj|solutionrelative:waseetproject.dal\\repository\\interfaces\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0252A8A-05A0-5FC8-F0D6-C920A8FBA336}|WaseetProject.DAL\\WaseetProject.DAL.csproj|d:\\depi\\project\\waseetproject\\waseetproject.dal\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0252A8A-05A0-5FC8-F0D6-C920A8FBA336}|WaseetProject.DAL\\WaseetProject.DAL.csproj|solutionrelative:waseetproject.dal\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E7F06B-24EE-5D81-03BF-DD3A4D75F12F}|WaseetProject\\WaseetProject.PL.csproj|d:\\depi\\project\\waseetproject\\waseetproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60E7F06B-24EE-5D81-03BF-DD3A4D75F12F}|WaseetProject\\WaseetProject.PL.csproj|solutionrelative:waseetproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E7F06B-24EE-5D81-03BF-DD3A4D75F12F}|WaseetProject\\WaseetProject.PL.csproj|d:\\depi\\project\\waseetproject\\waseetproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E7F06B-24EE-5D81-03BF-DD3A4D75F12F}|WaseetProject\\WaseetProject.PL.csproj|solutionrelative:waseetproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0252A8A-05A0-5FC8-F0D6-C920A8FBA336}|WaseetProject.DAL\\WaseetProject.DAL.csproj|d:\\depi\\project\\waseetproject\\waseetproject.dal\\repository\\classes\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0252A8A-05A0-5FC8-F0D6-C920A8FBA336}|WaseetProject.DAL\\WaseetProject.DAL.csproj|solutionrelative:waseetproject.dal\\repository\\classes\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenaricRepository.cs",
+              "DocumentMoniker": "D:\\DEPI\\Project\\WaseetProject\\WaseetProject.DAL\\Repository\\Classes\\GenaricRepository.cs",
+              "RelativeDocumentMoniker": "WaseetProject.DAL\\Repository\\Classes\\GenaricRepository.cs",
+              "ToolTip": "D:\\DEPI\\Project\\WaseetProject\\WaseetProject.DAL\\Repository\\Classes\\GenaricRepository.cs",
+              "RelativeToolTip": "WaseetProject.DAL\\Repository\\Classes\\GenaricRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T11:38:19.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenaricRepository.cs",
+              "DocumentMoniker": "D:\\DEPI\\Project\\WaseetProject\\WaseetProject.DAL\\Repository\\Interfaces\\IGenaricRepository.cs",
+              "RelativeDocumentMoniker": "WaseetProject.DAL\\Repository\\Interfaces\\IGenaricRepository.cs",
+              "ToolTip": "D:\\DEPI\\Project\\WaseetProject\\WaseetProject.DAL\\Repository\\Interfaces\\IGenaricRepository.cs",
+              "RelativeToolTip": "WaseetProject.DAL\\Repository\\Interfaces\\IGenaricRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T11:37:58.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "D:\\DEPI\\Project\\WaseetProject\\WaseetProject\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "WaseetProject\\Controllers\\PropertyController.cs",
+              "ToolTip": "D:\\DEPI\\Project\\WaseetProject\\WaseetProject\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "WaseetProject\\Controllers\\PropertyController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T11:34:23.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEPI\\Project\\WaseetProject\\WaseetProject\\Program.cs",
+              "RelativeDocumentMoniker": "WaseetProject\\Program.cs",
+              "ToolTip": "D:\\DEPI\\Project\\WaseetProject\\WaseetProject\\Program.cs",
+              "RelativeToolTip": "WaseetProject\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T11:33:21.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\DEPI\\Project\\WaseetProject\\WaseetProject.DAL\\Repository\\Classes\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WaseetProject.DAL\\Repository\\Classes\\UserRepository.cs",
+              "ToolTip": "D:\\DEPI\\Project\\WaseetProject\\WaseetProject.DAL\\Repository\\Classes\\UserRepository.cs",
+              "RelativeToolTip": "WaseetProject.DAL\\Repository\\Classes\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T11:30:17.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\DEPI\\Project\\WaseetProject\\WaseetProject.DAL\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "WaseetProject.DAL\\Repository\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\DEPI\\Project\\WaseetProject\\WaseetProject.DAL\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "WaseetProject.DAL\\Repository\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T11:29:35.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DEPI\\Project\\WaseetProject\\WaseetProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WaseetProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DEPI\\Project\\WaseetProject\\WaseetProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WaseetProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T11:27:25.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
